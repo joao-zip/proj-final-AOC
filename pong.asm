@@ -12,8 +12,8 @@
 	compCount:		.word 0
 	compSpeed:		.word 0			# Depois da colisão isso é setado como o nível
 	Level:			.word 6
-	colorOne:		.word 0x00ff8000
-	colorTwo:		.word 0x00c00080
+	colorOne:		.word 0x0000ff00
+	colorTwo:		.word 0x00ff0000
 	ballColor:		.word 0x00ffffff
 	backgroundColor:	.word 0x00000000
 	blueColor:		.word 0x0012fff7
