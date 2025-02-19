@@ -435,15 +435,6 @@ Standby:
 		j Standby
 EndStandby:		
 		j DrawObjects
-		
-# $a0 contains the paddles x position
-# $a1 contains paddles y-top position
-# $a2 contains paddle color
-# $a3 contains the direction
-# $t0 is the loop counter
-# $t1 is the current y coordinate, the x coordinate does not change
-# after completed $a1 "returns" aka has stored the new y-top position, $a3 "returns" the direction
-# careful to make sure nothing inbetween alters these  $a registers
 
 # $a0 tem a posicao x da raquete
 # $a1 tem a posicao "y-topo" da raquete
@@ -590,11 +581,6 @@ DrawPoint:
 		sw $a2, ($v0)
 		
 		jr $ra
-
-# $a0 the x starting coordinate
-# $a1 the y coordinate
-# $a2 the color
-# $a3 the x ending coordinate
 
 # $a0 - inicio da coord x
 # $a1 - coord y
