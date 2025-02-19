@@ -13,8 +13,9 @@ Larissa Martins Sá
 
 # Projeto MIPS
 
-Fizemos um pong com 1 ou 2 jogadores, e que tem um modo de jogo "automático" onde a raquete fica andando sozinha. [Video](https://youtu.be/PCBXshTukpA)
+[Video](https://youtu.be/PCBXshTukpA)
 
+Fizemos um pong com 1 ou 2 jogadores, e que tem um modo de jogo "automático" onde a raquete fica andando sozinha.
 Para fazer funcionar, você deve utilizar o simulador MARS e seguir as instruções:
 
 - Run -> Assemble
