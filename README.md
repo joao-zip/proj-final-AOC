@@ -9,11 +9,11 @@ Larissa Martins Sá
 
 # Criathon AOC - Techpoly: O Jogo do hardware
 
-[Apresentação](#) - [Video](https://youtu.be/AJNrbRgbkLg) - [Assets](https://www.canva.com/design/DAGbdcCFGp4/7hdwwKpmEdE1pvFV5pu1Vw/edit)
+ [Video](https://youtu.be/AJNrbRgbkLg) - [Assets](https://www.canva.com/design/DAGbdcCFGp4/7hdwwKpmEdE1pvFV5pu1Vw/edit) - [Regras](https://docs.google.com/document/d/1ftc-E6Xrea3fWTs-nuUqq0IxfPTAbUVjCr6jakWIUKw/edit?usp=sharing) - [Documento](https://docs.google.com/document/d/1FoL9I60vI0jNPoAzVb06Z5kjOsyjPSIEqCkXMzPzkQI/edit?usp=sharing)
 
 # Projeto MIPS
 
-Fizemos um pong com 1 ou 2 jogadores, e que tem um modo de jogo "automático" onde a raquete fica andando sozinha.
+Fizemos um pong com 1 ou 2 jogadores, e que tem um modo de jogo "automático" onde a raquete fica andando sozinha. [Video](https://youtu.be/PCBXshTukpA)
 
 Para fazer funcionar, você deve utilizar o simulador MARS e seguir as instruções:
 
